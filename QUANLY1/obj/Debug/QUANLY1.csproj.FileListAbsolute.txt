@@ -1,0 +1,126 @@
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\bin\Debug\QUANLY1.exe.config
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\bin\Debug\QUANLY1.exe
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\bin\Debug\QUANLY1.pdb
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csproj.AssemblyReference.cache
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\obj\Debug\QUANLY1.Form1.resources
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\obj\Debug\QUANLY1.Properties.Resources.resources
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csproj.GenerateResource.cache
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csproj.CoreCompileInputs.cache
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csproj.CopyComplete
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\obj\Debug\QUANLY1.exe
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\obj\Debug\QUANLY1.pdb
+C:\Users\vu231\source\repos\QUANLY1\QUANLY1\obj\Debug\QUANLY1.Form2.resources
+C:\Users\vu231\Music\QUANLY1\QUANLY1\bin\Debug\QUANLY1.exe.config
+C:\Users\vu231\Music\QUANLY1\QUANLY1\bin\Debug\QUANLY1.exe
+C:\Users\vu231\Music\QUANLY1\QUANLY1\bin\Debug\QUANLY1.pdb
+C:\Users\vu231\Music\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csproj.AssemblyReference.cache
+C:\Users\vu231\Music\QUANLY1\QUANLY1\obj\Debug\QUANLY1.Form1.resources
+C:\Users\vu231\Music\QUANLY1\QUANLY1\obj\Debug\QUANLY1.Form2.resources
+C:\Users\vu231\Music\QUANLY1\QUANLY1\obj\Debug\QUANLY1.Properties.Resources.resources
+C:\Users\vu231\Music\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csproj.GenerateResource.cache
+C:\Users\vu231\Music\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csproj.CoreCompileInputs.cache
+C:\Users\vu231\Music\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csproj.CopyComplete
+C:\Users\vu231\Music\QUANLY1\QUANLY1\obj\Debug\QUANLY1.exe
+C:\Users\vu231\Music\QUANLY1\QUANLY1\obj\Debug\QUANLY1.pdb
+D:\OOP\QUANLY1\QUANLY1\bin\Debug\QUANLY1.exe.config
+D:\OOP\QUANLY1\QUANLY1\bin\Debug\QUANLY1.exe
+D:\OOP\QUANLY1\QUANLY1\bin\Debug\QUANLY1.pdb
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csprojAssemblyReference.cache
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.Form2.resources
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.Properties.Resources.resources
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csproj.GenerateResource.cache
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csproj.CoreCompileInputs.cache
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.csproj.CopyComplete
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.exe
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.pdb
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.Bao_cao.resources
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.QuyDinh.resources
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.main.resources
+D:\OOP\QUANLY1\QUANLY1\obj\Debug\QUANLY1.DangNhap.resources
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe.config
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.pdb
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.AssemblyReference.cache
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Bao_cao.resources
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.DangNhap.resources
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Form2.resources
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.main.resources
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Properties.Resources.resources
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.QuyDinh.resources
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.GenerateResource.cache
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.CoreCompileInputs.cache
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.exe
+C:\Users\vlong\Documents\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.pdb
+D:\OOP\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe.config
+D:\OOP\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe
+D:\OOP\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.pdb
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csprojAssemblyReference.cache
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Bao_cao.resources
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.DangNhap.resources
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Form2.resources
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.main.resources
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Properties.Resources.resources
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.QuyDinh.resources
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.GenerateResource.cache
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.CoreCompileInputs.cache
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.CopyComplete
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.exe
+D:\OOP\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.pdb
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe.config
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.pdb
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.AssemblyReference.cache
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Bao_cao.resources
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.DangNhap.resources
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Form2.resources
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.main.resources
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Properties.Resources.resources
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.QuyDinh.resources
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.GenerateResource.cache
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.CoreCompileInputs.cache
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.exe
+C:\Users\vlong\Music\baitap\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.pdb
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe.config
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.pdb
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.AssemblyReference.cache
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Bao_cao.resources
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.DangNhap.resources
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Form2.resources
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.main.resources
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Properties.Resources.resources
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.QuyDinh.resources
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.GenerateResource.cache
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.CoreCompileInputs.cache
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.exe
+C:\Users\vlong\Videos\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.pdb
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe.config
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\bin\Debug\QUANLY1.pdb
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.AssemblyReference.cache
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Bao_cao.resources
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.DangNhap.resources
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Form2.resources
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.main.resources
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.Properties.Resources.resources
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.QuyDinh.resources
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.GenerateResource.cache
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.CoreCompileInputs.cache
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.exe
+C:\Users\vlong\QLSTK\QLSTK\QLSTK\QLSTK\QUANLY1\obj\Debug\QUANLY1.pdb
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.AssemblyReference.cache
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.Bao_cao.resources
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.DangNhap.resources
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.Form2.resources
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.main.resources
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.Properties.Resources.resources
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.QuyDinh.resources
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.GenerateResource.cache
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.CoreCompileInputs.cache
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.exe
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.pdb
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe.config
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\bin\Debug\QUANLY1.exe
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\bin\Debug\QUANLY1.pdb
+E:\Study\VLU\C#\Visual Studio C#\QLSTK\QUANLY1\obj\Debug\QUANLY1.csproj.CopyComplete
